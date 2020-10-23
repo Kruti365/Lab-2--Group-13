@@ -1,0 +1,12 @@
+body {
+    background-image: url(cityimg.jfif);
+    font-size:x-large;
+    font-family: 'Times New Roman', Times, serif;
+    align-content: center;
+    background-repeat: initial;
+    background-size: cover;
+  }
+
+ form{
+   background-color:#f4c2c2;
+ }
